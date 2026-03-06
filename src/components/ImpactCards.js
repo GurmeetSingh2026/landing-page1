@@ -109,6 +109,7 @@ function ImpactCards() {
   line-height: 0.8;
   pointer-events: none;
   z-index: 0;
+  letter-spacing:30px;
 }
 
 .impact-bg-text span {
@@ -118,13 +119,15 @@ function ImpactCards() {
 /* 🔥 IMPACT ko left karo */
 .impact-bg-text span:first-child {
   text-align: left;
-  padding-left: 10px;   /* adjust left distance */
+  padding-left: 0;   /* adjust left distance */
 }
 
 /* GROWTH ko center rakho */
 .impact-bg-text span:last-child {
-  text-align: center;
-  padding-top:350px;
+  text-align: right;
+  padding-top:300px;
+
+  
 }
         .impact-header h2 {
           width: 287px;

@@ -297,7 +297,7 @@ line-height: 140%; /* 16.8px */
 
 .watermark span{
   position:absolute;
-  bottom:-150px;          /* niche se cut effect */
+  bottom:-170px;          /* niche se cut effect */
   // left:-40px;
 
   font-size:350px;
