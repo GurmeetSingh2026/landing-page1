@@ -52,6 +52,8 @@ function AboutVasitum() {
 
   margin: 50px auto;   /* 🔥 top & bottom spacing */
   position: relative;
+  margin-left:60px;
+  // border: 2px solid red;
 }
 
 .about {

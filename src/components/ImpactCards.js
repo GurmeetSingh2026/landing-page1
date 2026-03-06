@@ -159,7 +159,7 @@ padding-right: 20.617px;
 align-items: center;
 align-self: stretch;
 justify-content: space-evenly;
-margin-left:200px;
+margin-left:220px;
 margin-top: -50px;
 width:1100px;
 
@@ -169,6 +169,8 @@ width:1100px;
           padding: 50px 40px;
           border-radius: 30px;
           box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+          position: relative;
+  overflow: hidden;
         }
 
         .dark {
@@ -247,6 +249,12 @@ letter-spacing: -3.346px;
         }
 
 .percent40{
+// width: 182px;
+// height: 182px;
+// border-radius: 11696106px;
+// opacity: 0.2;
+// background: var(--base-colour, #0B5CD5);
+// filter: blur(34.85714340209961px);
           margin-top: 15px;
           padding-top: 8px;
           // border: 2px solid red;
@@ -257,6 +265,7 @@ font-style: normal;
 font-weight: 600;
 line-height: 66.926px; /* 100% */
 letter-spacing: -3.346px;
+
 }
 
 .symbol{

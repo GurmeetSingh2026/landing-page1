@@ -93,6 +93,8 @@ function Testimonials() {
   color: black;
   padding: 120px 0;
   margin: -190px 0;   /* 🔥 clean spacing top & bottom */
+  //  border: 2px solid red;
+   margin-left:65px;
 }
 
         .testimonials-header {
@@ -142,6 +144,7 @@ text-align: left;
           grid-template-columns: repeat(3, 1fr);
           gap: 40px;
           padding: 0 20px;
+          
         }
 
         .cardbox {
@@ -150,6 +153,7 @@ height: 242.693px;
 border-radius: 30.148px;
 background: var(--background-PT1, #F1F2F5);
           position: relative;
+         
           
          
         }
